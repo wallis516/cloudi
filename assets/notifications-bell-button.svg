@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="24px" viewBox="0 0 21 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>notifications-bell-button</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="新增資料夾" transform="translate(-1233.000000, -13.000000)">
+            <g id="navbar" transform="translate(201.000000, 0.000000)">
+                <g id="notifications-bell-button" transform="translate(1032.000000, 13.000000)">
+                    <path d="M10.2117647,24 C11.5317647,24 12.6117647,22.92 12.6117647,21.6 L7.81176471,21.6 C7.81176471,22.92 8.89176471,24 10.2117647,24 Z M18.0117647,16.8 L18.0117647,10.2 C18.0117647,6.48 15.4917647,3.48 12.0117647,2.64 L12.0117647,1.8 C12.0117647,0.84 11.1717647,0 10.2117647,0 C9.25176471,0 8.41176471,0.84 8.41176471,1.8 L8.41176471,2.64 C4.93176471,3.48 2.41176471,6.48 2.41176471,10.2 L2.41176471,16.8 L0.0117647059,19.2 L0.0117647059,20.4 L20.4117647,20.4 L20.4117647,19.2 L18.0117647,16.8 Z M15.6117647,18 L4.81176471,18 L4.81176471,10.2 C4.81176471,7.2 7.21176471,4.8 10.2117647,4.8 C13.2117647,4.8 15.6117647,7.2 15.6117647,10.2 L15.6117647,18 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <circle id="Oval" fill="#D91D1D" cx="17" cy="6" r="4"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
